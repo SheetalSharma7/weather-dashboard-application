@@ -20,7 +20,7 @@ let cardStyles={
   borderRadius:"25px"
 }
 
-
+ 
 
 export default function InfoBox({ info}){
 
