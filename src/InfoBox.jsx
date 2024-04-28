@@ -12,11 +12,11 @@ import WbSunnyIcon from '@mui/icons-material/WbSunny';
 let styles={
   height:"150px",
   width:"180px",
-  color:"#15719f"
+  color:"rgb(100, 89, 159)"
   
 }
 let cardStyles={
-  backgroundColor:"#7bc7dd",
+  backgroundColor:"rgb(130, 170,230)",
   borderRadius:"25px"
 }
 
